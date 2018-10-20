@@ -1,0 +1,164 @@
+{
+  "units": [
+    {
+      "name": "Peasant",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Peon",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Footman",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Grunt",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Elven Archer",
+      "race": "High Elf",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Troll Axethrower",
+      "race": "Forest Troll",
+      "faction": "Horde"
+    },
+    {
+      "name": "Elven Ranger",
+      "race": "High Elf",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Troll Berserker",
+      "race": "Forest Troll",
+      "faction": "Horde"
+    },
+    {
+      "name": "Knight",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Ogre",
+      "race": "Ogre",
+      "faction": "Horde"
+    },
+    {
+      "name": "Paladin",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Ogre-Mage",
+      "race": "Ogre Mage",
+      "faction": "Horde"
+    },
+    {
+      "name": "Ballista",
+      "race": null,
+      "faction": "Alliance"
+    },
+    {
+      "name": "Catapult",
+      "race": null,
+      "faction": "Horde"
+    },
+    {
+      "name": "Demolition Squad",
+      "race": "Dwarf",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Goblin Sappers",
+      "race": "Goblin",
+      "faction": "Horde"
+    },
+    {
+      "name": "Mage",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Death Knight",
+      "race": "Death Knight",
+      "faction": "Horde"
+    },
+    {
+      "name": "Gnomish Flying Machine",
+      "race": "Gnome",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Goblin Zeppelin",
+      "race": "Goblin",
+      "faction": "Horde"
+    },
+    {
+      "name": "Gryphon Rider",
+      "race": "Wildhammer Dwarf and Gryphon",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Dragon",
+      "race": "Dragon",
+      "faction": "Horde"
+    },
+    {
+      "name": "Oil Tanker",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Oil Tanker",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Transport",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Transport",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Elven Destroyer",
+      "race": "High Elf",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Troll Destroyer",
+      "race": "Forest Troll",
+      "faction": "Horde"
+    },
+    {
+      "name": "Battleship",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Ogre Juggernaught",
+      "race": "Ogre",
+      "faction": "Horde"
+    },
+    {
+      "name": "Gnomish Submarine",
+      "race": "Ghome",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Giant Turtle",
+      "race": "Goblin and Giant Turtle",
+      "faction": "Horde"
+    }
+  ]
+}
