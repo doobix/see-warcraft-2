@@ -11,3 +11,9 @@ console.log(randomUnit);
 assert(Object.keys(randomUnit).includes('name'));
 assert(Object.keys(randomUnit).includes('race'));
 assert(Object.keys(randomUnit).includes('faction'));
+
+const randomBuilding = swc.getRandomBuilding();
+console.log(randomBuilding);
+assert(Object.keys(randomBuilding).includes('name'));
+assert(Object.keys(randomBuilding).includes('race'));
+assert(Object.keys(randomBuilding).includes('faction'));

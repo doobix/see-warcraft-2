@@ -1,0 +1,234 @@
+{
+  "buildings": [
+    {
+      "name": "Town Hall",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Great Hall",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Farm",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Pig Farm",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Barracks",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Barracks",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Elven Lumber Mill",
+      "race": "High Elf",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Troll Lumber Mill",
+      "race": "Forest Troll",
+      "faction": "Horde"
+    },
+    {
+      "name": "Blacksmith",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Blacksmith",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Scout Tower",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Watch Tower",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Guard Tower",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Guard Tower",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Cannon Tower",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Cannon Tower",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Shipyard",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Shipyard",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Foundry",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Foundry",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Oil Refinery",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Oil Refinery",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Oil Platform",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Oil Platform",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Keep",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Stronghold",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Stables",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Ogre Mound",
+      "race": "Ogre",
+      "faction": "Horde"
+    },
+    {
+      "name": "Church",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Altar of Storms",
+      "race": "Ogre Mage",
+      "faction": "Horde"
+    },
+    {
+      "name": "Peasant",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Peasant",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Peasant",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Peasant",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Peasant",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Gnomish Inventor",
+      "race": "Gnome",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Goblin Alchemist",
+      "race": "Goblin",
+      "faction": "Horde"
+    },
+    {
+      "name": "Mage Tower",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Temple of the Damned",
+      "race": "Death Knight",
+      "faction": "Horde"
+    },
+    {
+      "name": "Gryphon Aviary",
+      "race": "Wildhammer Dwarf and Gryphon",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Dragon Roost",
+      "race": "Orc and Dragon",
+      "faction": "Horde"
+    },
+    {
+      "name": "Castle",
+      "race": "Human",
+      "faction": "Alliance"
+    },
+    {
+      "name": "Fortress",
+      "race": "Orc",
+      "faction": "Horde"
+    },
+    {
+      "name": "Gold Mine",
+      "race": "Neutral",
+      "faction": "Neutral"
+    },
+    {
+      "name": "Runestone",
+      "race": "Neutral",
+      "faction": "Neutral"
+    },
+    {
+      "name": "Dark Portal",
+      "race": "Neutral",
+      "faction": "Neutral"
+    }
+  ]
+}

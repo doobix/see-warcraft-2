@@ -19,13 +19,13 @@ const SeeWarcraft2 = require('./node_modules/see-warcraft-2');
 const swc = new SeeWarcraft2();
 ```
 
-### `ssc.getRandomFaction()`
+### `swc.getRandomFaction()`
 
 ```
 Horde
 ```
 
-### `ssc.getRandomUnit()`
+### `swc.getRandomUnit()`
 
 ```
 {
@@ -33,6 +33,16 @@ Horde
   race: 'Human',
   faction: 'Alliance'
 }
+```
+
+### `swc.getRandomBuilding()`
+
+```
+{
+  name: 'Great Hall',
+  race: 'Orc',
+  faction: 'Horde'
+},
 ```
 
 ## License
