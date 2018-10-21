@@ -1,6 +1,6 @@
 {
   "name": "see-warcraft-2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Warcraft II details",
   "main": "index.js",
   "scripts": {
